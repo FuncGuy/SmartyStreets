@@ -50,7 +50,7 @@ Seventh Series:
 
 1) All about Reader
 
-Eighth Series:
+Eigth Series:
 
 1) Final Cleanup of EOF troubles that we had in the last episode.
 2) Writing an integration test it helps us to WIRE up the system.
